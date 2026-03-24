@@ -1,6 +1,4 @@
-# PRCL-0015_Credit_Risk_Prediction
-
-# 💳 Credit Score Prediction – PRCL-0015
+#  Credit Score Prediction – PRCL-0015
 
 ## 📌 Project Overview
 This project focuses on predicting the **creditworthiness of existing credit card customers** for GoodCredit Bank.  
