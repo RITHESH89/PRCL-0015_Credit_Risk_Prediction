@@ -20,7 +20,7 @@ GoodCredit Bank aims to build a predictive model that:
 
 
 
-## 🎯 Target Variable
+## Target Variable
 
 **Bad_label**
 
@@ -31,7 +31,7 @@ GoodCredit Bank aims to build a predictive model that:
 
 ---
 
-## 📊 Project Goal
+## Project Goal
 Develop a machine learning model that outperforms the benchmark performance:
 
 **Benchmark Gini Score:** `37.9`
