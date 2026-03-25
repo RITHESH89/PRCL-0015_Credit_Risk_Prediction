@@ -41,8 +41,6 @@ Success Criteria:
 - Improve Gini coefficient
 - Maintain model interpretability
 
----
-
 ##  Machine Learning Workflow
 
 1. Business Understanding
