@@ -56,7 +56,7 @@ Success Criteria:
 
 ---
 
-## 🛠️ Tech Stack
+## Technology
 
 - Python
 - Pandas
