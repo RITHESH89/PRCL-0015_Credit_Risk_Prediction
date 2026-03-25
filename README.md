@@ -43,7 +43,7 @@ Success Criteria:
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Business Understanding
 2. Data Cleaning & Preprocessing
