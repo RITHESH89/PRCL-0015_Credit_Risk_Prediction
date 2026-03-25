@@ -1,6 +1,6 @@
 #  Credit Score Prediction – PRCL-0015
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on predicting the **creditworthiness of existing credit card customers** for GoodCredit Bank.  
 The objective is to identify customers likely to default and reduce financial risk using Machine Learning.
 
@@ -8,7 +8,7 @@ The model classifies customers into **Good Credit** or **Bad Credit** categories
 
 ---
 
-## 🏦 Business Problem
+##  Business Problem
 Banks face significant losses due to credit defaults. Early identification of risky customers allows better credit decisions and portfolio risk management.
 
 GoodCredit Bank aims to build a predictive model that:
