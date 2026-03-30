@@ -1,4 +1,4 @@
-#  Credit Score Prediction
+#  Credit Score Prediction\
 
 ##  Project Overview
 This project focuses on predicting the **creditworthiness of existing credit card customers** for GoodCredit Bank.  
