@@ -15,7 +15,7 @@ It helps financial institutions automate loan risk assessment.
 
 ## Tech Stack
 - Python
-- Pandas & NumPy
+
 
 ## Workflow
 Data Preprocessing → Feature Engineering → Model Training → Evaluation → Prediction
