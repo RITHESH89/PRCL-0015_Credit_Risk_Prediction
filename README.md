@@ -14,7 +14,6 @@ It helps financial institutions automate loan risk assessment.
 
 
 ## Tech Stack
-- Python
 
 
 ## Workflow
