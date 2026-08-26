@@ -13,7 +13,6 @@ It helps financial institutions automate loan risk assessment.
 - Supervised Machine Learning (Classification)
 
 ## Tech Stack
-- Python
 
 ## Workflow
 Data Preprocessing → Feature Engineering → Model Training → Evaluation → Prediction
