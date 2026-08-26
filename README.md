@@ -12,7 +12,11 @@ It helps financial institutions automate loan risk assessment.
 - Random Forest Classifier
 - Supervised Machine Learning (Classification)
 
-
+## Tech Stack
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
 
 
 ## Workflow
