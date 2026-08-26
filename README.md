@@ -16,7 +16,6 @@ It helps financial institutions automate loan risk assessment.
 - Python
 - Pandas & NumPy
 - Scikit-learn
-- Matplotlib & Seaborn
 
 
 ## Workflow
